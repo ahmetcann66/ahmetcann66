@@ -22,7 +22,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          # ÖNCEKİ HATAYI ÇÖZEN KISIM:
+          
           git pull origin main --rebase 
           git commit -m "generated"
           git push
