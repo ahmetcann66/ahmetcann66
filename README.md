@@ -9,6 +9,7 @@
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmetcanbozkurt295@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+
 </div>
 
 <br/>
@@ -50,6 +51,16 @@ I am a **Computer Engineering Student** and **Defense Industry Intern** passiona
 
 ---
 
+### 🏆 Achievements & Certifications
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmetcann66&theme=git-dimmed&no-frame=true&margin-w=15&row=1&column=7" alt="ahmetcann66 trophies" />
+  </a>
+</div>
+
+---
+
 ### 📡 Declassified Projects
 
 | Project | Role & Tech | Description |
@@ -73,11 +84,13 @@ I am a **Computer Engineering Student** and **Defense Industry Intern** passiona
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetcann66&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00D1FF" width="98%" />
+  <img src="https://raw.githubusercontent.com/ahmetcann66/ahmetcann66/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/ahmetcann66/ahmetcann66/output/snake.svg" width="100%" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ahmetcann66/ahmetcann66/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
 </div>
 
 <div align="center">
