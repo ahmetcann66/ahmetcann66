@@ -1,107 +1,85 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmet+Can+Bozkurt+👋;Robotics+%26+Embedded+Systems+Engineer;C%2FC%2B%2B+%26+Python+Developer;Building+Autonomous+Defense+Technologies;Sensor+Fusion+%26+AI+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Ahmet+Can+Bozkurt;Robotics+%26+Defense+Systems+Engineer;Building+Autonomous+Future;C%2B%2B+%7C+Python+%7C+Embedded+AI" alt="Typing SVG" />
 
-### 🛡️ Robotics · Embedded Systems · Defense Technology
-🎯 Developing autonomous robots and real-world defense simulations
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" />
 
-📧 **ahmetcanbozkurt295@gmail.com**
+### 🛡️ Autonomous Defense Systems & Robotics
+*Engineering the next generation of defense technology.*
 
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmetcanbozkurt295@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
 </div>
 
----
+<br/>
 
-## 🧠 Tech & Defense Skills
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="55%" valign="top">
 
-![Defense Tech](https://img.shields.io/badge/Defense%20Technology-232F3E?style=for-the-badge)
-![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-6C63FF?style=for-the-badge)
-![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-FF6C37?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics%20Engineer-AI%20Systems-6C63FF?style=for-the-badge)
+### 🚀 Mission Status: Active
 
-**Programming Languages:**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+I am a **Computer Engineering Student** and **Defense Industry Intern** passionate about creating intelligent machines that operate in critical environments.
 
-**Hardware / Modules:**
-![ESP8266](https://img.shields.io/badge/ESP8266-WiFi%20Module-000000?style=for-the-badge)
-![PCA9685](https://img.shields.io/badge/PCA9685-Servo%20Driver-6C63FF?style=for-the-badge)
-![HC-SR04](https://img.shields.io/badge/HC--SR04-Ultrasonic%20Sensor-FF6C37?style=for-the-badge)
-![Laser Targeting](https://img.shields.io/badge/Laser%20Targeting-System-red?style=for-the-badge)
+**Current Focus:**
+* 🔭 Developing **Autonomous Ground Vehicles (UGV)**
+* 🎯 Coding **Sensor Fusion Algorithms** in C++
+* ⚡ Designing **Embedded Control Circuits**
+* 🧠 Implementing **Computer Vision** for target detection
 
----
+> *"The future of defense is autonomous."*
 
-## 🚀 About Me
+</td>
+<td width="5%" valign="top"></td>
+<td width="40%" valign="top">
 
-I’m a **Software & Robotics Developer** focused on:
+### 🛠️ Tech Arsenal
 
-- Autonomous ground robots  
-- Multi-sensor fusion and targeting systems  
-- Embedded software and AI-based control  
-- Defense-oriented simulation and real-world robotics  
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 
-🎓 2nd year engineering student  
-🏢 Intern at a defense-industry related company  
-🎯 Goal: Become a defense systems engineer
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32%2F8266-000000?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
 
----
+<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
-## 🛠️ Featured Projects
+<br/>
+<img src="https://img.shields.io/badge/Sensor_Fusion-FF6C37?style=flat-square" /> <img src="https://img.shields.io/badge/Defense_Tech-232F3E?style=flat-square" />
 
-| Project | Description |
-|--------|------------|
-| 🛡️ **Sentinel-Fusion-Sim** | Multi-sensor fusion & autonomous target tracking (C++) |
-| 🤖 **Quadruped Spider Robot** | 4-legged Arduino-based autonomous robot |
-| 🚜 **Autonomous Ground Vehicle (İKA)** | Fire detection + obstacle avoidance + GPS + vision |
-| 🎯 **Robotic Targeting System** | Servo-driven sensor & laser aiming module |
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### 📡 Declassified Projects
+
+| Project | Role & Tech | Description |
+|:---|:---|:---|
+| **🛡️ Sentinel-Fusion-Sim** | `C++` `OpenCV` `Kalman Filter` | Advanced multi-sensor fusion simulation for autonomous target tracking and prediction. |
+| **🕷️ Quadruped Spider** | `Arduino` `Inverse Kinematics` | A 4-legged autonomous robot capable of terrain adaptation using PCA9685 drivers. |
+| **🚜 Autonomous UGV** | `Python` `YOLOv8` `GPS` | Unmanned Ground Vehicle with fire detection, obstacle avoidance, and waypoint navigation. |
+| **🎯 Laser Targeting System** | `Embedded C` `Servo Control` | High-precision automated turret system using ultrasonic sensors and laser modules. |
+
+---
+
+### 📊 Intelligence Report
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmetcann66&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcann66&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetcann66&theme=tokyo-night&hide_border=true" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmetcann66&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcann66&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF" height="160"/>
 
 </div>
 
----
-
-## 🐍 Contribution Snake Animation
+<br/>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/ahmetcann66/ahmetcann66/output/snake.svg" width="95%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetcann66&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00D1FF" width="98%" />
 </div>
 
----
-
-## 🎯 Mission
-
-> Engineering intelligent autonomous defense-grade robotic systems.
-
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/ahmetcann66/ahmetcann66/output/snake.svg" width="100%" alt="Snake animation" />
+</div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
-
-⭐ **Ahmet Can Bozkurt**
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" width="100%"/>
 </div>
