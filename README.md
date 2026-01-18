@@ -51,7 +51,7 @@ I am a **Computer Engineering Student** and **Defense Industry Intern** passiona
 
 ---
 
-### 🔥 GitHub Activity Streak
+### 🔥 Coding Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcann66&theme=tokyonight&hide_border=true&fire=FF6C37&ring=00D1FF&currStreakLabel=00D1FF" alt="GitHub Streak" />
