@@ -18,8 +18,8 @@
 
 - 🎓 **3rd Year Student** — *Information Systems & Technologies*
 - 🏛️ **Atatürk University**
-- 🏢 ** Internship** — *Mıssoft / Depron Group*
-- 👁️ **Assigned Unit**: *Computer Vision & Perception Systems*
+- 🏢 **Internship** — *Mıssoft / Depron Group*
+- 👁️ Assigned Unit: Computer Vision & Perception Systems & Embedded Systems
 - 🛩️ **Current Operation**: *UAV Control System Development (C)*
 
 > This profile represents a **defense-focused engineering mindset**  
