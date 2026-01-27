@@ -18,7 +18,7 @@
 
 - 🎓 **3rd Year Student** — *Information Systems & Technologies*
 - 🏛️ **Atatürk University**
-- 🏢 **Defense Industry Internship** — *Mıssoft / Depron Group*
+- 🏢 ** Internship** — *Mıssoft / Depron Group*
 - 👁️ **Assigned Unit**: *Computer Vision & Perception Systems*
 - 🛩️ **Current Operation**: *UAV Control System Development (C)*
 
