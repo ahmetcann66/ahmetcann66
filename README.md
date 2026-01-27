@@ -8,6 +8,7 @@
 *Engineering reliable autonomy for critical environments.*
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmetcanbozkurt295@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmetcann66)
 
 </div>
@@ -27,52 +28,52 @@ Savunma ve otonom sistemlerde **gerçek zamanlı algı (perception)**,
 
 ### 🎯 Current Focus
 - ✈️ **İHA / UAV Kontrol Sistemleri** – flight logic, PID, telemetry (**C**)
-- 👁️ **Computer Vision** – hedef tespiti & takip (OpenCV, YOLO)
-- 🔭 **Autonomous Ground Vehicles (UGV)**
+- 👁️ **Görüntü İşleme** – hedef tespiti & takip (OpenCV, YOLO)
+- 🔭 **Otonom Kara Araçları (UGV)**
 - 🧠 **Sensor Fusion** – Kalman / EKF (C++)
-- ⚡ **Embedded Systems** – bare-metal, zamanlama, interrupt
+- ⚡ **Gömülü Sistemler** – bare-metal, zamanlama, interrupt
 
 > *“Autonomy isn’t the future — it’s the requirement.”*
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Teknoloji Cephaneliği
 
-### Languages
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+### 💻 Programlama Dilleri
+<div align="center">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
-### Embedded & SBC
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32%2F8266-000000?style=flat-square&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white"/>
+### ⚙️ Gömülü Sistemler & Donanım
+<div align="center">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32%20%2F%208266-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+</div>
 
-### Robotics & Vision
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
+### 🤖 Robotik, Görüntü İşleme & Otonomi
+<div align="center">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/Sensor%20Fusion-FF6C37?style=for-the-badge" />
+</div>
 
-### Systems
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
-
----
-
-## 🏅 Achievement Strategy (GitHub Badges)
-
-This profile is actively maintained to qualify for:
-
-- 🦈 **Pull Shark** → merged PRs to external repositories
-- ❄️ **Arctic Code Vault** → long-term open-source contributions
-- 🚀 **YOLO** → selective direct-to-main commits
+### 🧠 Sistem & Geliştirme Ortamı
+<div align="center">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded%20AI-0A66C2?style=for-the-badge" />
+</div>
 
 ---
 
 ## 🔥 Coding Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcann66&theme=tokyonight&hide_border=true&fire=FF6C37&ring=00D1FF&currStreakLabel=00D1FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcann66&theme=tokyonight&hide_border=true&fire=FF6C37&ring=00D1FF&currStreakLabel=00D1FF" />
 </div>
 
 ---
@@ -81,11 +82,11 @@ This profile is actively maintained to qualify for:
 
 | Project | Tech | Description |
 |------|------|------------|
-| 🛡️ **Sentinel-Fusion-Sim** | C++ · OpenCV · Kalman | Multi-sensor fusion & target tracking simulation |
-| ✈️ **UAV Flight Control Core** | C · PID · Telemetry | Low-level İHA kontrol sistemi & failsafe yapısı |
+| 🛡️ **Sentinel-Fusion-Sim** | C++ · OpenCV · Kalman | Multi-sensor fusion & target tracking |
+| ✈️ **UAV Flight Control Core** | C · PID · Telemetry | Düşük seviye İHA kontrol & failsafe |
 | 🕷️ **Quadruped Spider Robot** | Arduino · IK · PCA9685 | 4 ayaklı otonom robot |
-| 🚜 **Autonomous UGV** | Python · YOLO · GPS | Yangın tespiti ve görev tabanlı navigasyon |
-| 🎯 **Laser Targeting System** | Embedded C · Servo | Otomatik hedefleme sistemi |
+| 🚜 **Autonomous UGV** | Python · YOLO · GPS | Yangın tespiti ve navigasyon |
+| 🎯 **Laser Targeting System** | Embedded C · Servo | Otomatik hedefleme |
 
 ---
 
