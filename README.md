@@ -66,9 +66,17 @@ and develop **robust embedded intelligence architectures**.
 
 ## 📊 GitHub Activity
 
+## 📊 GitHub Activity
+
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=ahmetcann66&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF" height="150"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcann66&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00E5FF" height="150"/>
+
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcann66&theme=dark&hide_border=true&background=0d1117&ring=00E5FF&currStreakLabel=00E5FF&fire=00E5FF" />
+
 </div>
 
 ---
