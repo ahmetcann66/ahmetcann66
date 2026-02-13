@@ -66,8 +66,6 @@ and develop **robust embedded intelligence architectures**.
 
 ## 📊 GitHub Activity
 
-## 📊 GitHub Activity
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahmetcann66&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF" height="150"/>
@@ -75,7 +73,14 @@ and develop **robust embedded intelligence architectures**.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcann66&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00E5FF" height="150"/>
 
 <br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcann66&theme=dark&hide_border=true&background=0d1117&ring=00E5FF&currStreakLabel=00E5FF&fire=00E5FF" />
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmetcann66&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15" />
+</div>
 
 </div>
 
@@ -102,4 +107,21 @@ while(alive) {
 
 "Systems that control reality must be engineered with discipline."
 
-</div> ```
+</div>
+
+<div align="center">
+
+📫 Connect with Me
+<a href="mailto:seninmailin@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"/>
+</a>
+
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/ahmetcann66/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"/>
+</a>
+
+
+
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dahmetcann66%26color%3D00E5FF%26style%3Dfor-the-badge%26label%3DPROFILE%2BVIEWS" alt="Profile Views" />
+
+</div>
