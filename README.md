@@ -4,7 +4,7 @@
 
 ### UAV Control • Computer Vision • Embedded Intelligence
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=Information+Systems+Student;UAV+Control+Software+(C%2FC%2B%2B);Computer+Vision+Developer;Embedded+Systems+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=Information+Systems+Student;UAV+Control+Software+(C%2FC%2B%2B);Computer+Vision+Developer;Information+Systems+&+Technologies" />
 
 </div>
 
