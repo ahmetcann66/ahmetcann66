@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛰️ Autonomous Systems Engineer — 2026
+# 🛰️ Information Systems & Technologies — 2026
 
 ### UAV Control • Computer Vision • Embedded Intelligence
 
